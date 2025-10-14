@@ -1,1 +1,1 @@
-# MGMT8175
+# MGMT8175 - Assessing Corporate Cybersecurity 
